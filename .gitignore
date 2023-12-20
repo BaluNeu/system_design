@@ -1,3 +1,5 @@
 venv/
 
 init.sql
+
+secret.yaml
