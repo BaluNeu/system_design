@@ -36,5 +36,9 @@ spec:
           persistentVolumeClaim:
             claimName: rabbitmq-pvc
 
+# minikube tunnel 
+# for communication through ingress
+
+
 
 
