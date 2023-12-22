@@ -26,3 +26,5 @@ spec:
                 name: gateway-configmap
             - secretRef:
                 name: gateway-secret
+
+# kubectl scale deployment --replicas=0 gateway
